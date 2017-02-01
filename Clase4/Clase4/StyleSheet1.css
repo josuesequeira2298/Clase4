@@ -1,0 +1,20 @@
+﻿body {
+
+    width:60%;
+    margin:auto;
+
+}
+
+.borde{
+    border-bottom:groove;
+    border-bottom-color:coral;
+   
+}
+
+.input{
+    border:groove;
+
+}
+.linea{
+    
+}
